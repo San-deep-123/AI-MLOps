@@ -1,0 +1,6 @@
+﻿empid,name,department,techstack,income_lpa,experience,eligible_for_promotion
+EMP251,Rahul Dravid,Data Science,Python/FastAPI,15.20,7,Y
+EMP252,Sunita Williams,QA,Selenium/Python,6.50,2,N
+EMP253,Vikram Sarabhai,DevOps,AWS/Terraform,24.80,12,Y
+EMP254,Kapil Dev,Engineering,React/Node,11.00,4,N
+EMP255,Mithali Raj,Engineering,Java/Spring,18.50,9,Y

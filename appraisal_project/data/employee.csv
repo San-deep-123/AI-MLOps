@@ -1,0 +1,16 @@
+empid,name,department,techstack,income_lpa,experience,eligible_for_promotion
+EMP001,Sanjay Kumar,DevOps,AWS/Terraform,13.79,7,1
+EMP002,Deepak Patel,Engineering,React/Node,13.38,11,1
+EMP003,Amit Verma,Product,React/Node,18.42,15,1
+EMP004,Suresh Mehta,QA,Selenium/Python,11.38,5,0
+EMP005,Ananya Nair,QA,Selenium/Python,7.58,2,0
+EMP006,Suresh Rao,Data Science,Python/FastAPI,14.07,6,1
+EMP007,Deepak Mehta,Engineering,React/Node,13.56,8,1
+EMP008,Suresh Gupta,Engineering,React/Node,30.34,15,0
+EMP009,Neha Kumar,Product,React/Node,29.98,15,1
+EMP010,Poojo Mehta,DevOps,AWS/Terraform,10.15,4,1
+EMP011,Sneha Kumar,Data Science,Python/FastAPI,27.17,14,1
+EMP012,Sanjay Nair,Product,React/Node,7.03,2,1
+EMP013,Jyoti Verma,QA,Selenium/Python,6.67,3,0
+EMP014,Rahul Patel,Engineering,Java/Spring,13.51,6,1
+EMP015,Arjun Patel,Engineering,React/Node,14.65,7,1
